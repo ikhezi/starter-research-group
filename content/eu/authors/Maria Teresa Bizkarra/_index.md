@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mariate Bizkarra
+title: Maria Teresa Bizkarra
 
 # Is this the primary user of the site?
 superuser: true
