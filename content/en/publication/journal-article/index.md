@@ -1,8 +1,8 @@
 ---
 title: "An example journal article"
 authors:
-- admin
-- Robert Ford
+- Rakel Gamito
+- Maria Teresa Bizkarra
 author_notes:
 - "Equal contribution"
 - "Equal contribution"

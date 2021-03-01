@@ -3,7 +3,7 @@
 title: Maria Teresa Bizkarra
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Irakaslea eta Ikertzailea

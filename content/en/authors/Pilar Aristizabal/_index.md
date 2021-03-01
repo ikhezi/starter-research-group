@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Maria Teresa Bizkarra
+title: Pilar Aristizabal
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Irakaslea eta Ikertzailea
